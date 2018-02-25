@@ -38,7 +38,7 @@ support at **[Western Digital (Thailand)](https://www.wdc.com/about-wd.html)**, 
 * Ceph `Intermediate`
 * GlusterFS `Intermediate`
 * Openstack `Intermediate`
-* Proxmox `Intermediate`
+* Proxmox VE `Intermediate`
 * VMWare `Intermediate`
 * Virtualbox `Intermediate`
 * KVM `Intermediate`
