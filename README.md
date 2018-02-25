@@ -40,7 +40,7 @@ support at **[Western Digital (Thailand)](https://www.wdc.com/about-wd.html)**, 
 * Openstack `Intermediate`
 * Proxmox `Intermediate`
 * VMWare `Intermediate`
-* Vitualbox `Intermediate`
+* Virtualbox `Intermediate`
 * KVM `Intermediate`
 * Hyper-V `Intermediate`
 * UNIX/Linux `Intermediate`
