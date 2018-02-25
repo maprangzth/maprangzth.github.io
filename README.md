@@ -41,12 +41,12 @@ support at **[Western Digital (Thailand)](https://www.wdc.com/about-wd.html)**, 
 * Proxmox `Intermediate`
 * VMWare `Intermediate`
 * Vitualbox `Intermediate`
-* KVM `Basic`
-* Hyper-V `Basic`
+* KVM `Intermediate`
+* Hyper-V `Intermediate`
 * UNIX/Linux `Intermediate`
 * Shell Script `Intermediate`
 * Zabbix `Intermediate`
-* Grafana `Basic`
+* Grafana `Intermediate`
 * ELK Stack `Intermediate`
 * Markdown `Intermediate`
 * NGINX `Intermediate`
@@ -54,7 +54,6 @@ support at **[Western Digital (Thailand)](https://www.wdc.com/about-wd.html)**, 
 * PHP `Basic`
 * Python `Basic`
 * MySQL `Basic`
-* Bootstrap `Basic`
 
 ## Tools
 * Visual Studio Code
@@ -64,16 +63,7 @@ support at **[Western Digital (Thailand)](https://www.wdc.com/about-wd.html)**, 
 * Ansible
 * Terminator
 * tmux
-
-## Version Control
 * Git
-
-## Technology News
-* Medium
-* Twitter
-* Blognone
-* Facebook
-* TechTalkThai
 
 ## Get in touch
 * Facebook : **[https://www.facebook.com/maprangzth](https://www.facebook.com/maprangzth)**
